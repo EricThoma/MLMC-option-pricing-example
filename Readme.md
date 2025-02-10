@@ -1,3 +1,5 @@
+(Completed for a mini course project back in 2017 when I was an undergraduate)
+
 Requires GSL for random number generation.
 
 Compile with 
