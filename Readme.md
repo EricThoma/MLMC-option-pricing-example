@@ -1,4 +1,4 @@
-(Completed for a mini course project back in 2017 when I was an undergraduate. The program implements option pricing using a multi-level Monte Carlo simulation. The idea was to generate some plots of performance vs error and compare to theory, but admittedly the code itself never really got much attention after this happened.)
+(Completed for a mini course project back in 2017 when I was an undergraduate. The program implements option pricing using a multi-level Monte Carlo simulation. The idea was to generate some plots and compare to theory, but admittedly the code itself never really got much attention after this happened.)
 
 Requires GSL for random number generation.
 
